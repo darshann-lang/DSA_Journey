@@ -1,6 +1,6 @@
-# Write a program to print Twinkle Twinkle little star poem in python 
+# Write a program to print Twinkle twinkle little star poem in python 
 
-'''triple single quote (''''''') is used to print multi-line.'''
+''' triple single quote or triple double quote is used to print multi-line '''
 
 print('''Twinkle, twinkle, little star,
 How I wonder what you are!
