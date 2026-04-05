@@ -20,7 +20,7 @@ print(f"Your choice: {compDict[you]} \nComputer's choice: {compDict[computer]}")
 
 if ( computer == you ):
     print("Its a draw")
-    
+
 else: 
 
     if ( computer == -1 and you == 1 ):
@@ -40,4 +40,3 @@ else:
     
     else:
         print("Something went wrong")
-
